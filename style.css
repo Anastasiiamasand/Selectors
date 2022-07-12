@@ -1,0 +1,43 @@
+*, body, html{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    padding: 20px;
+}
+.class{
+    padding: 20px;
+    color: green;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#id{
+    color: blue;
+    text-decoration-line: underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.class1{
+    color: beige;
+    background: red;
+}
+.class2{
+    color: white;
+    background: black;
+}
+.class1.class3 {
+    color: rgb(5, 27, 27);
+    background: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul{
+color: blueviolet;
+background: yellowgreen;
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
